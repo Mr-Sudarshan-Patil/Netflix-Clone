@@ -1,8 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Martel+Sans:wght@600;700&family=Poppins:wght@300&display=swap');
-
-
 @import url('https://fonts.googleapis.com/css2?family=Martel+Sans:wght@200;300;400;600;700;800;900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
-
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Martel+Sans:wght@200;300;400;600;700;800;900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 
 
@@ -225,11 +222,14 @@ section.first>div :nth-child(2) {
 	filter: invert(1);
 }
 
+
 #ptext{
  font-size: 18px;
  margin-top: 15px;
  font-weight: 400;
 }
+
+
 .faqbox {
 	transition: all 1s ease-out;
 	font-size: 20px;
@@ -271,7 +271,19 @@ footer .questions {
 	flex-direction: column;
 	gap: 15px;
 }
-  
+
+.clone{
+	height: 20px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 15px;
+	padding-top: 25px;
+	font-size: 16px;
+}
+.clone:hover{
+	color: #e50914;
+}
   
 @media screen and (max-width: 1300px) {
 	nav{
@@ -344,16 +356,4 @@ footer .questions {
 	}
 	
 	
-}
-.clone{
-	height: 20px;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	margin-top: 15px;
-	padding-top: 25px;
-	font-size: 16px;
-}
-.clone:hover{
-	color: #e50914;
 }
