@@ -12,7 +12,7 @@ This Netflix clone is designed to replicate the sleek and user-friendly interfac
 
 <b>Content Grid</b>: The grid-based layout for displaying movies and TV shows flexibly adjusts to accommodate varying screen sizes, ensuring a visually appealing presentation at any resolution.
 
-<b>Flexible Images and Video</v>: Images and video elements are set to scale responsively, preventing distortion and preserving visual quality on devices of all sizes.
+<b>Flexible Images and Video</b>: Images and video elements are set to scale responsively, preventing distortion and preserving visual quality on devices of all sizes.
 
 <b>Customizable Themes</b>: Through CSS variables and selectors, users can customize the color scheme and typography to suit their preferences, enhancing the overall user experience.
 
