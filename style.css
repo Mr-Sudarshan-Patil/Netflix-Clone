@@ -355,5 +355,9 @@ footer .questions {
 		margin-top: 15px;
 	}
 	
+	.btn{
+		padding: 3px 18px;
+		font-size: 0.75rem;
+	}
 	
 }
